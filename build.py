@@ -20,8 +20,7 @@ meta_files = {
     "LICENSE",
 }
 templates_to_be_included = [
-    ("zh_CN/normal_1", "ott"),
-    ("zh_CN/normal_2", "ott"),
+    ("zh_CN/normal", "ott"),
 ]
 
 if not os.path.exists(build_dir):
