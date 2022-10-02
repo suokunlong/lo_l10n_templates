@@ -1,0 +1,1 @@
+LibreOffice Localized Template Set is a collection of LibreOffice templates designed by the "localization" team to fulfill the special needs and requirements of their document formatting and layout in different countries/regions all over the world.
